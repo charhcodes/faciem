@@ -1,11 +1,8 @@
 # Faciem
-
-Brief description of the project.
+A simple app that allows users to search up skincare products and uses AI to determine whether that ingredient is good for their skintype. Under construction.
 
 ## Installation
-
-Instructions on how to install the project.
+N/A.
 
 ## Usage
-
-Instructions on how to use the project.
+N/A.
